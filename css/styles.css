@@ -1,15 +1,15 @@
 body {
-  background-color: #faf7eb;
+  background-color: white;
 }
 
 .topnav {
-  background-color: #0474ac;
+  background-color: #573B79;
   overflow: hidden;
 }
 
 .topnav a {
   float: left;
-  color: #f2f2f2;
+  color: white;
   text-align: center;
   padding: 14px 16px;
   text-decoration: none;
@@ -17,12 +17,12 @@ body {
 }
 
 .topnav a:hover {
-  background-color: #9ad5e7;
+  background-color: #6A518A;
   color: white;
 }
 
 .topnav a.active {
-  background-color: #9ad5e7;
+  background-color: #6A518A;
   color: white;
 }
 
