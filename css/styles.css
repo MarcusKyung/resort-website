@@ -26,3 +26,67 @@ body {
   color: white;
 }
 
+p {
+  text-align: center;
+  font-family: 'Times New Roman', Times, serif;
+}
+
+h1.home { 
+  text-align: center;
+  text-decoration: underline;
+  font-family: 'Times New Roman', Times, serif;
+  font-style: italic;
+}
+
+h2.home {
+  text-align: center;
+  font-family: 'Times New Roman', Times, serif;
+  font-style: italic;
+}
+
+.bodycopy {
+  margin-right: 20%;
+  margin-left: 20%;
+}
+
+div.room {
+  background-color: white;
+  text-align: center;
+  font-family: 'Times New Roman', Times, serif;
+  margin-right: 20%;
+  margin-left: 20%;
+  border-radius: 25px;
+  padding: 10px;
+}
+
+div.activities {
+  background-color: white;
+  text-align: center;
+  font-family: 'Times New Roman', Times, serif;
+  margin-right: 20%;
+  margin-left: 20%;
+  border-radius: 25px;
+  padding: 10px;
+}
+
+h1.page-headers {
+  text-align: center;
+  font-size: 50px;
+}
+
+.contact {
+  background-color: white;
+  margin-right: 20%;
+  margin-left: 20%;
+  border-radius: 25px;
+  padding: 10px;
+}
+
+.homephoto {
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+  display: block;
+
+
+}
