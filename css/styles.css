@@ -1,15 +1,15 @@
 body {
-  background-color: #faf7eb;
+  background-color: #FFF1BC;
 }
 
 .topnav {
-  background-color: #0474ac;
+  background-color: #446E5C;
   overflow: hidden;
 }
 
 .topnav a {
   float: left;
-  color: #f2f2f2;
+  color: #7DC383;
   text-align: center;
   padding: 14px 16px;
   text-decoration: none;
@@ -17,12 +17,12 @@ body {
 }
 
 .topnav a:hover {
-  background-color: #9ad5e7;
+  background-color: #51A375;
   color: white;
 }
 
 .topnav a.active {
-  background-color: #9ad5e7;
+  background-color: #51A375;
   color: white;
 }
 
@@ -50,7 +50,6 @@ h2.home {
 }
 
 div.room {
-  background-color: white;
   text-align: center;
   font-family: 'Times New Roman', Times, serif;
   margin-right: 20%;
@@ -60,7 +59,6 @@ div.room {
 }
 
 div.activities {
-  background-color: white;
   text-align: center;
   font-family: 'Times New Roman', Times, serif;
   margin-right: 20%;
@@ -75,7 +73,6 @@ h1.page-headers {
 }
 
 .contact {
-  background-color: white;
   margin-right: 20%;
   margin-left: 20%;
   border-radius: 25px;
@@ -87,6 +84,5 @@ h1.page-headers {
   margin-right: auto;
   width: 50%;
   display: block;
-
 
 }
